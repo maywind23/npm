@@ -23,5 +23,5 @@ sudo yum update -y
 ```
 ## 一键脚本
 ```bash
-sudo apt install git -y && git clone https://raw.githubusercontent.com/maywind23/npm/refs/heads/main/npm.sh && cd npm && chmod +x npm.sh && ./npm.sh
+sudo apt install git -y && git clone https://github.com/maywind23/npm.git && cd npm && chmod +x npm.sh && ./npm.sh
 ```
